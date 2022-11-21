@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student at Staffordshire University studying Cyber Security BSc (Hons)
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a highly motivated undergraduate student studying for my Bachelor of Cyber Security (Hons) degree at Staffordshire University. I am well organized with my studies and have shown exemplary leadership skills in my group projects whilst always working to achieve a high-quality standard and the top brackets of marks.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jamesdaglessbsc@hotmai.com](jamesdaglessbsc@hotmai.com)
