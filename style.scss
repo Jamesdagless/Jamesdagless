@@ -20,7 +20,7 @@ html {
 body {
 	background: $black;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $white;
 }
 
 .container {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 50px;
   a {
     color: inherit;
   }
@@ -107,7 +107,7 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 200%;
 }
 
 // Fixes images in popup boxes from Google Translate
